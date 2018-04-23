@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizeParameterEditorSample", "CustomizeParameterEditorSample\CustomizeParameterEditorSample.csproj", "{3719DFA5-94FB-49AE-902F-ED3C45712CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizeParameterEditorSample.Web", "CustomizeParameterEditorSample.Web\CustomizeParameterEditorSample.Web.csproj", "{7ADB3833-54DE-48CC-A278-6857FAB71C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3719DFA5-94FB-49AE-902F-ED3C45712CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3719DFA5-94FB-49AE-902F-ED3C45712CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3719DFA5-94FB-49AE-902F-ED3C45712CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3719DFA5-94FB-49AE-902F-ED3C45712CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADB3833-54DE-48CC-A278-6857FAB71C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADB3833-54DE-48CC-A278-6857FAB71C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADB3833-54DE-48CC-A278-6857FAB71C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADB3833-54DE-48CC-A278-6857FAB71C77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
