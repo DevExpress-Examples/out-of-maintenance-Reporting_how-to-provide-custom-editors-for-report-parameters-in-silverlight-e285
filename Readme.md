@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CustomizeParameterEditorSample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomizeParameterEditorSample/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/CustomizeParameterEditorSample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomizeParameterEditorSample/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to provide custom editors for report parameters in Silverlight
 
 
